@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * main - print a text according to number
- * Return: always (success)
+ * and whether is greater than 5 less that 6 or 0 
+ * Return: always 0.
  *
  */
 
