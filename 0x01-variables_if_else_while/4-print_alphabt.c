@@ -12,10 +12,10 @@ int main(void)
 	{
 		if (c != 'e' && c ! = 'a')
 		{
-			putchar (c);
+			putchar(c);
 		}
 		c++;
 	}
-	putchar ('\n');
+	putchar('\n');
 	return (0);
 }
