@@ -4,7 +4,7 @@
 /**
  * main - main block
  * Description: This program will assign a random number to the variable n
- * each time is exucuted
+ * each time is exucuted,Complete the source code in order to print whether the number stored in the variable n is positive or negative.
  * return: 0
  */
 
