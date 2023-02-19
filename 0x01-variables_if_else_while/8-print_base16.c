@@ -15,12 +15,6 @@ int main(void)
 	putchar(c);
 	c--;
 	}
-	c = '17';
-	while (c > '16')
-	{
-	putchar(c)
-	c--;
-	}
 	putchar('\n');
 	return (0);
 }
