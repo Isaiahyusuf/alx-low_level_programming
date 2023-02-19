@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: Write a program that prints all possible different combinations of two digits.
+ * Description: Write a program that prints all possible differe
  * Return: 0
  */
 int main(void)
