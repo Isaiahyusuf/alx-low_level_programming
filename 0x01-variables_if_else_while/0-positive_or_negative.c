@@ -3,7 +3,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: get a random number and print number
+ * Description: This program will assign a random number to the variable n
+ * each time is exucuted
  * return: 0
  */
 
