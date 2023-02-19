@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: program that prints all the numbers of base 16 
+ * Description: program that prints all the numbers of base 16
  * Return: 0
  */
 int main(void)
@@ -13,6 +13,12 @@ int main(void)
 	while (c >= 'a')
 	{
 	putchar(c);
+	c--;
+	}
+	c = '17';
+	while (c > '16')
+	{
+	putchar(c)
 	c--;
 	}
 	putchar('\n');
