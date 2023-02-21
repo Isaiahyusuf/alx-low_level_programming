@@ -4,7 +4,7 @@
  * @n: the number to be checked
  * Return: 1 for the positive num, -1 for the negative numor zero for anything else
  */
-print_sign(int n)
+int print_sign(int n)
 {
 
 	if (n > 0)
@@ -18,7 +18,7 @@ print_sign(int n)
 	_putchar(45);
 	return(-1);
 	{
-		else
+	else
 	}
 	_putchar(48);
 	return (0);
