@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+ * main - block
+ * Description: Write a function that prints the alphabet, in lowercase
  * print - alphabet_make the alphabet
  * Return: void
  */
