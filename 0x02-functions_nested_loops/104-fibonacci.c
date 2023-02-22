@@ -18,15 +18,15 @@ int main(void)
 	fib1 = fib2;
 	fib2 = sum;
 	}
-	fib1_half1 = fibl / 10000000000;
+	fib1_half1 = fib1 / 10000000000;
 	fib2_half1 = fib2 / 10000000000;
 	fib1_half2 = fib1 % 10000000000;
 	fib2_half2 = fib2% 10000000000;
 	for (count = 93; count < 99; count++)
 	{
-	half1 = fibl_half1 + fib2_half1;
+	half1 = fib1_half1 + fib2_half1;
 	half2 = fib1_half2 + fib2_half2;
-	if (fibl_half2 + fib2_half2> 9999999999)
+	if (fib1_half2 + fib2_half2> 9999999999)
 	{
 	half1 += 1;
 	half2 % = 10000000000;
