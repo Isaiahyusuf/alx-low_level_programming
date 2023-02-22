@@ -4,14 +4,14 @@
  * @c: the numner to be computed
  * Return: Absolite value of numberof zero
  */
-int _obs(int c)
+int _abs(int c)
 {
 	if (c < 0)
 	{
-		int abs_val;
+	int abs_val;
 
-		abs_val = c * -1;
-		return (abs_val);
+	abs_val = c * -1;
+	return (abs_val);
 	}
 	return (c);
 }
